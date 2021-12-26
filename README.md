@@ -1,3 +1,3 @@
 # ReactJs Simple Calculator
 
-Simple Calculator based on React
+Simple Calculator using JavaScript library (React).

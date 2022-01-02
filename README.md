@@ -1,3 +1,3 @@
 # ReactJs Simple Calculator
 
-Math Calculator using JavaScript library (React JS).
+Simple Math Calculator using JavaScript library (React JS).
